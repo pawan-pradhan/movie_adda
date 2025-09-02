@@ -1,8 +1,3 @@
-// 8345048516:AAFPNYXvSUopIjlSQaEWNq012MKNla7G1Bs
-
-
-
-
 
 // index.js
 const TelegramBot = require("node-telegram-bot-api");
